@@ -4,5 +4,3 @@ tensorflow
 Pillow
 numpy
 matplotlib
-seaborn
-opencv-python-headless
